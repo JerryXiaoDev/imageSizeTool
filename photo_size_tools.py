@@ -7,7 +7,7 @@ import math
 import tempfile
 from typing import Tuple, Optional
 
-
+# 客户端原始代码
 class ImageResizerApp:
     def __init__(self, root):
         self.root = root
